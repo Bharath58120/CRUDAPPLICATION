@@ -1,0 +1,3 @@
+[submodule "crudfrontend"]
+	path = crudfrontend
+	url = https://github.com/Bharath58120/web
